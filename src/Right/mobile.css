@@ -1,0 +1,15 @@
+@media (max-width: 1100.px) {
+    .mainbar {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 1281px){
+    .musicbar1 {
+        left: 12.5rem !important ;
+    }
+
+    .homebar {
+        left: 11.5rem !important;
+    }
+}
